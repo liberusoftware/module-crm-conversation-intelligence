@@ -2,7 +2,7 @@
   "name": "crm-conversation-intelligence",
   "display_name": "CRM Conversation Intelligence",
   "description": "Recording, transcription, evidence and conversation insights",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "capability",
   "provider": "Liberu\\CRM\\ConversationIntelligence\\ConversationIntelligenceServiceProvider",
   "requires": {
